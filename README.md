@@ -17,3 +17,10 @@ The objective of this project was to analyze and derive insights to uncover patt
 - Correcting Review Scores and Texts: I observed that the review scores and corresponding review texts were misaligned. To fix this, I rounded up the review scores to the nearest whole number and used the IF function to match the scores with accurate review texts. This adjustment ensured consistency and accuracy in the customer feedback data.
 ### Insights
 ![Screenshot (21)](https://github.com/user-attachments/assets/d85ae516-f540-4f48-92ce-d3d3fae4cefc)
+### Recommendations
+After carefully displaying sales trend through visualizations on the E-commerce dashboard, it is first of all observed that the products, geographical sales, referral sources, monthly sales and customer demographics are doing well in generating revenue for the company because there isn’t a significant difference in how each of them perform. However, certain improvements can still be made in the following ways:
+-	Increase production: The most popular product category should never be out of stock and always available for purchase across different regions
+-	Enhance Marketing Strategy: this process is essential to both categories that are over and underperforming in a company. Digital marketing and social media have to be effectively utilized to target the right audience.
+-	Assessment of Customer Reviews: this is essential so as to gather insights from customers to understand why the product is popular or least desired. This helps to deeply analyze their opinions on the products quality, price, convenience and unique feature
+-	Enhancement of products: All products in a company that performs the best and least needs to be improved on its design, functionality and features based on customer needs.
+
