@@ -1,8 +1,8 @@
-#### E-Commerce-Dashboard
+### E-Commerce-Dashboard
 A detailed analysis of a synthetic dataset to analyze sales trends, customer demographics. referrals efficiency and geographical preferences.
-#### Project Overview
+### Project Overview
 This synthetic dataset gave me the opportunity to perform various analysis to leverage data-driven insights to enhance customer satisfaction, optimize product offerings, and improve marketing strategies by understanding product performances, sales trends, referrals efficiency, demographic and geographical preferences across the year 2021 and January 2022.
-#### Problem Statement
+### Problem Statement
 The objective of this project was to analyze and derive insights to uncover patterns in customer behavior, product performance, and referral sources. By addressing the following key questions, we aim to provide actionable recommendations to optimize sales, improve customer satisfaction, and refine marketing strategies:
 - Product Performance Analysis: Identify which product item or category received the best and worst reviews, enabling the business to understand customer preferences and dissatisfaction areas.
 - Sales Trends: Determine the products with the most and least sales over the years to pinpoint high-performing items and underperforming ones, guiding inventory and promotional decisions.
