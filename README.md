@@ -16,4 +16,4 @@ The objective of this project was to analyze and derive insights to uncover patt
 - Formatting Price and Total Amount Columns: The "Price" and "Total Amount" columns needed attention to ensure all values were properly formatted as currency. I ensured that every cell had accurate values with the correct currency symbol (e.g., $2,288), improving clarity and presentation.
 - Correcting Review Scores and Texts: I observed that the review scores and corresponding review texts were misaligned. To fix this, I rounded up the review scores to the nearest whole number and used the IF function to match the scores with accurate review texts. This adjustment ensured consistency and accuracy in the customer feedback data.
 ### Insights
-"C:\Users\ruthi\OneDrive\Pictures\Screenshots\Screenshot (21).png"
+![Screenshot (21)](https://github.com/user-attachments/assets/d85ae516-f540-4f48-92ce-d3d3fae4cefc)
